@@ -15,3 +15,7 @@ These are my configuration files for NixOS.
 5. Use `~/.Xresources` to change `urxvt` color scheme.
 
 6. Use `~/.xprofile` to enable transparency and wallpaper on startup.
+
+## VMWare Guest
+
+Add `services.vmwareGuest.enable = true;` to `/etc/nixos/configuration.nix` for screen resolution. See also https://github.com/NixOS/nixpkgs/pull/7829

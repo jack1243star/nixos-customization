@@ -8,7 +8,7 @@ These are my configuration files for NixOS.
 
 2. Replace `/etc/nixos/configuration.nix` and run `nixos-rebuild switch`.
 
-3. Use 'passwd jack1243star' to give a password.
+3. Use `passwd jack1243star` to give a password.
 
 4. Download your favorite wallpaper and run `feh --bg-fill /path/to/imagefile`.
 

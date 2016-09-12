@@ -1,0 +1,30 @@
+URxvt.depth: 32
+URxvt.scrollBar: false
+URxvt.font: 7x13,\
+            -misc-fixed-medium-r-normal--13-120-75-75-c-60-iso10646-1, \
+            [codeset=JISX0208]xft:Kochi Gothic:antialias=false, \
+            xft:Code2000:antialias=false
+
+! Fish Of Paradise color theme
+! http://putty.org.ru/themes/fish-of-paradise.html
+URxvt*foreground:   [90]#e0dbb7
+URxvt*colorBD:      [90]#fff8d8
+URxvt*background:   [90]#23232c
+URxvt*cursorColor:  [90]#573d26
+URxvt*cursorColor2: [90]#573d26
+URxvt*color0:       [90]#573d26
+URxvt*color8:       [90]#9b6c4a
+URxvt*color1:       [90]#be2d26
+URxvt*color9:       [90]#e84627
+URxvt*color2:       [90]#6ba18a
+URxvt*color10:      [90]#95d8ba
+URxvt*color3:       [90]#e99d2a
+URxvt*color11:      [90]#d0d150
+URxvt*color4:       [90]#5a86ad
+URxvt*color12:      [90]#b8d3ed
+URxvt*color5:       [90]#ac80a6
+URxvt*color13:      [90]#d19ecb
+URxvt*color6:       [90]#74a6ad
+URxvt*color14:      [90]#93cfd7
+URxvt*color7:       [90]#e0dbb7
+URxvt*color15:      [90]#fff9d5

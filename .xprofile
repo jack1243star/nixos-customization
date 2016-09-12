@@ -1,0 +1,5 @@
+# Start xcompmgr (for transparency)
+xcompmgr -c &
+
+# Wallpaper
+sh ~/.fehbg &

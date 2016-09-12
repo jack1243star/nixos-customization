@@ -1,5 +1,6 @@
 import XMonad
 
 main = xmonad def
-              { terminal = "urxvt"
+              { modMask = mod4Mask -- Use Windows key instead of Alt key
+              , terminal = "urxvt"
               }

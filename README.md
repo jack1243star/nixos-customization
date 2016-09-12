@@ -21,3 +21,11 @@ These are my configuration files for NixOS.
 ## VMWare Guest
 
 Add `services.vmwareGuest.enable = true;` to `/etc/nixos/configuration.nix` for screen resolution. See also https://github.com/NixOS/nixpkgs/pull/7829
+
+## Reference
+
+Some nice guides to NixOS customization:
+
+* [Setup NixOS (Virtualized + Haskell + Gnome3 + XMonad)](https://gist.github.com/rehno-lindeque/4eb5a325202c840cb8c9#file-nixsetup-md)
+
+* [XMonad setup in NixOS](https://gist.github.com/i-e-b/6320077)
